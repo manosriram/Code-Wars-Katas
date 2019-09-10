@@ -13,13 +13,7 @@
 #define c_sort(a) sort(a, a + sizeof(a) / sizeof(a[0]))
 #define NL cout << '\n';
 #define INF (int)1e9
+#define sws cin.sync_with_stdio(false);
+#define tieNULL cin.tie(NULL);
 using namespace std;
 typedef vector<int> VI;
-
-int main()
-{
-    cin.sync_with_stdio(false);
-    cin.tie(NULL);
-
-    return 0;
-}
