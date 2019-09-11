@@ -1,8 +1,8 @@
 #include "../Template.hpp"
 
-vI Tribonacci(ld n)
+VI Tribonacci(ld n)
 {
-    vI store;
+    VI store;
     int first = 1, second = 1, third = 1, next;
     for (int t = 0; t < n; t++)
     {
