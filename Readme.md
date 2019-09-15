@@ -2,4 +2,6 @@
 
 ![](https://amiru11.github.io/images/codewars.jpg)
 
-``` Current Level : 8kyu ```
+
+![](https://www.codewars.com/users/mano_sriram/badges/large)
+
