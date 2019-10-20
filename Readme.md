@@ -3,5 +3,5 @@
 ![](https://amiru11.github.io/images/codewars.jpg)
 
 
-![](https://www.codewars.com/users/mano_sriram/badges/large)
+![](https://www.codewars.com/users/_manosriram/badges/large)
 
